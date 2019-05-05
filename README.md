@@ -1,3 +1,5 @@
 # Hello-world
-Hello new world, share and contribute ideas with the world.
-Add some knowledge about Machine Learning, basic supervised learning algorithms.
+Hello new world！
+
+Keep going forward, not be afraid of any challenges and difficulties. 
+You all can make it!
