@@ -1,0 +1,17 @@
+# commom git commands
+
+git init
+
+touch test.py
+
+git status
+
+git add .
+
+git commit -m "Grace adds a file"
+
+git push origin master
+
+git branch gcmeta
+
+git checkout gcmeta
