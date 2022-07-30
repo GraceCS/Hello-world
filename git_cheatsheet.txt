@@ -4,7 +4,7 @@ git init
 
 touch test.py
 
-git status
+git statusss
 
 git add .
 
@@ -14,4 +14,6 @@ git push origin master
 
 git branch gcmeta
 
-git checkout gcmeta
+git checkout gcmetag
+
+git pull
